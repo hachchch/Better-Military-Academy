@@ -14,7 +14,7 @@
 			"New [Military] units start with [25] Experience [in this city]",
 			"Destroyed when the city is captured",
 			"[5] units cost no maintenance", 
-			"[2] free [Musketmen] units appear",
+			"[2] free [Musketman] units appear",
 			"Requires at least [12] population"
 			]
 		"requiredTech": "Military Science"
